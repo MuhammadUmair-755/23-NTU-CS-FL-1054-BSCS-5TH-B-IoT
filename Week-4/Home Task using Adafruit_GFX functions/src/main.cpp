@@ -24,9 +24,9 @@ void setup() {
   display.setCursor(20, 20);          // Starting position of text
 
   // Write your name and ID
-  display.println("Your Name");
+  display.println("Muhammad Umair");
   display.setCursor(10, 35);
-  display.println("ID: Your-ID");
+  display.println("ID: 23-NTU-CS-1054");
 
   // Draw rectangle around the text
   display.drawRect(5, 5, 120, 55, SSD1306_WHITE);
