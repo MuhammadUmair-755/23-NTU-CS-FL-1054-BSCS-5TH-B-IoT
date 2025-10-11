@@ -1,3 +1,6 @@
+// Muhammad Umair     23-NTU-CS-1054
+// Home Task week-4 OLED display
+
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
