@@ -1,3 +1,6 @@
+// Muhammad Umair    23-NTU-CS-1054
+// Week-4 Bonus Task OLED Emoji
+
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
